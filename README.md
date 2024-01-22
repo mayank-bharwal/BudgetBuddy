@@ -1,5 +1,7 @@
 # BudgetBuddy - Accounting Ledger Web Application
 
+![Screenshot 2024-01-21 at 11 36 09 PM](https://github.com/mayank-bharwal/MindScape/assets/119955673/07f690c9-b651-4795-ba08-d256e9490078)
+
 BudgetBuddy is a simple accounting ledger web application built using Flask, SQLAlchemy, and Flask-Login. It allows users to register, login, add transactions, and view their transaction history.
 
 ## Features
@@ -23,7 +25,7 @@ BudgetBuddy is a simple accounting ledger web application built using Flask, SQL
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/budgetbuddy.git
+   git clone https://github.com/mayank-bharwal/BudgetBuddy.git
    ```
 
 2. Create a virtual environment and activate it:
@@ -70,11 +72,7 @@ BudgetBuddy is a simple accounting ledger web application built using Flask, SQL
 
 ## Screenshots
 
-![Login Page](screenshots/login.png)
-
-![Registration Page](screenshots/register.png)
-
-![Main Page](screenshots/main.png)
+![Screenshot 2024-01-21 at 11 35 08 PM](https://github.com/mayank-bharwal/MindScape/assets/119955673/81319cd1-40ef-4e77-b3a5-f85b21244f3d)
 
 ## Contributions
 
@@ -82,4 +80,4 @@ Contributions to this project are welcome! If you have any suggestions or improv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
