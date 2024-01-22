@@ -1,5 +1,7 @@
 # BudgetBuddy - Accounting Ledger Web Application
 
+http://budgetbuddy.pythonanywhere.com
+
 ![Screenshot 2024-01-21 at 11 36 09 PM](https://github.com/mayank-bharwal/MindScape/assets/119955673/07f690c9-b651-4795-ba08-d256e9490078)
 
 BudgetBuddy is a simple accounting ledger web application built using Flask, SQLAlchemy, and Flask-Login. It allows users to register, login, add transactions, and view their transaction history.
